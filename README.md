@@ -1,3 +1,7 @@
 # Day1
 day1lab
-  ![alt text](https://ibb.co/48ZNVYN
+ 
+ ![Alt text](relative/path/to/img.jpg?raw=true "Title")
+
+ 
+ 
