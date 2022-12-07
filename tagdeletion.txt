@@ -1,0 +1,2 @@
+ git tag -d name >>> for local tag delete 
+git push origin --delete v1.0 >>> for remot tag delete 
